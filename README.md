@@ -17,6 +17,7 @@ uvicorn main:app --reload
 | DELETE | /tasks/{id} | Delete task |
 
 ## Swagger UI
+<img width="1887" height="913" alt="Swagger UI" src="https://github.com/user-attachments/assets/1a35549f-c53b-4b73-b7ee-60b9b300d241" />
 Visit http://localhost:8000/docs
 
 # Task CRUD API — Week 3: SQLite Database
