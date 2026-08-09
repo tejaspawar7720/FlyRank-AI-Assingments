@@ -1,6 +1,4 @@
-<img width="1382" height="942" alt="databse count " src="https://github.com/user-attachments/assets/de2a4761-2466-4757-94d8-5b062a8ad88e" />
-<img width="1907" height="977" alt="Data by id " src="https://github.com/user-attachments/assets/9f121044-747c-473b-b26f-deec065d3eb8" />
-<img width="1902" height="1012" alt="DB1" src="https://github.com/user-attachments/assets/4549afb8-8a94-4b54-b0b5-fe0f1bb5a1e8" />
+
 # Task CRUD API
 
 A simple Todo API built with FastAPI.
@@ -49,6 +47,9 @@ Data survives server restarts unlike in-memory storage.
 - File: tasks.db (auto-created on first run)
 - Table: tasks (id, title, done)
 - 3 example tasks seeded on first run only
+<img width="1382" height="942" alt="databse count " src="https://github.com/user-attachments/assets/de2a4761-2466-4757-94d8-5b062a8ad88e" />
+<img width="1907" height="977" alt="Data by id " src="https://github.com/user-attachments/assets/9f121044-747c-473b-b26f-deec065d3eb8" />
+<img width="1902" height="1012" alt="DB1" src="https://github.com/user-attachments/assets/4549afb8-8a94-4b54-b0b5-fe0f1bb5a1e8" />
 
 ## Example SQL query
 SELECT * FROM tasks WHERE done = 1;
